@@ -8,15 +8,15 @@ Build a Virtual Novel Game. Using the engine Renpy and Python for all developmen
 # Project Milestones
 
 *This Project will have several milestones to show some of long terms goals that will be expected in the future.*
--Create concept art and character sheet for character "Hina"
--Create 3D "Hina" model in sprite
--Complete the story
--Complete all option pathes for Virtual Novel
--Create all environments and animations for backgrounds
--Potentially upload the game to steam with a solid final product.
+- Create concept art and character sheet for character "Hina"
+- Create 3D "Hina" model in sprite
+- Complete the story
+- Complete all option pathes for Virtual Novel
+- Create all environments and animations for backgrounds
+- Potentially upload the game to steam with a solid final product.
 
-#Concept Art and Environemnts
+# Concept Art and Environemnts
 
--Hina
+- Hina
 
 
