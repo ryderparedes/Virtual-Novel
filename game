@@ -1,0 +1,61 @@
+# Declares character and color augmentation
+define h = Character("Hina")
+
+#Image Files
+image bg classroom1 = "BG_classroom1.png"
+image Hina normal = "Hina_normal.png"
+
+# Start of Game
+label start:
+
+    # Background
+    scene bg classroom1
+
+
+    # Displays Hina Sprite
+    show Hina normal
+
+    # These display lines of dialogue.
+
+    h "Hello, I am Hina"
+
+    h "I'm the main character of this game!"
+
+    h "I liking playing games, molding sculptures, and hiking!"
+
+    h "How about you?"
+
+    menu:
+        "I like to play games!":
+            call hobbyGames
+        "I like art!":
+            call hobbyArt
+        "I like picking my nose!":
+            call hobbyBoogers
+
+    # This ends the game.
+    "End of Game!"
+
+    return
+
+label hobbyGames:
+    h "Oh I like games too!"
+    return
+
+label hobbyArt:
+    h "Oh really! Do you like sculptures too?"
+
+    menu:
+        "Yes I like sculptures!":
+            h "Wow that's great, we have something in common!"
+
+        "No, not really. I think they kind of suck":
+            h "Well that's kind of rude, I'm going to leave now."
+    return
+
+label hobbyBoogers:
+    h "Well thats kind of gross. I think I'm going to leave."
+
+    return
+
+#End of game
