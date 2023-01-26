@@ -19,4 +19,7 @@ Building a Virtual Novel game using the engine Renpy and Python for all developm
 
 - Hina
 
+![Hina normal](https://user-images.githubusercontent.com/123494735/214754151-cf39c1b1-0056-41ee-8067-21f3a73f79e5.png)
+
+
 
