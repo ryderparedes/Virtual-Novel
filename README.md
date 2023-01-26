@@ -19,4 +19,4 @@ Building a Virtual Novel game using the engine Renpy and Python for all developm
 
 - Hina
 
-
+![Alt text](relative/path/to/img.jpg?raw=true "Hina normal.png")
