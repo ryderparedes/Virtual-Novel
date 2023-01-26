@@ -3,7 +3,7 @@ Virtual Novel Project with use of Midjourney and Blender
 
 # Objective
 
-Build a Virtual Novel Game. Using the engine Renpy and Python for all development operations. All assets, character sprites, and environments are first created through Midjourney, a software that creates AI Art. Then is touched up and modified through Blender and Photoshop. The plot and story is also created by me. 
+Building a Virtual Novel game using the engine Renpy and Python for all development operations. All assets, character sprites, and environments are first created through Midjourney, a software that creates AI Art. Then is touched up and modified through Blender and Photoshop. The plot and story is also created by me. 
 
 # Project Milestones
 
